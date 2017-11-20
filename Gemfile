@@ -33,7 +33,7 @@ gem 'devise'
 gem "cancancan"   
 gem "nested_form"    
 gem 'public_activity'
-
+gem 'wdm'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
